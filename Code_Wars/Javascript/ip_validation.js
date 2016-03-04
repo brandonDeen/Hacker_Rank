@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/515decfd9dcfc23bb6000006
 //
 // Write an algorithm that will identify valid IPv4 addresses
 //  in dot-decimal format. Input to the function is guaranteed

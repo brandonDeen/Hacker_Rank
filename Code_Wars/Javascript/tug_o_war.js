@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/547fb94931cce5f5de00024f
 //
 // In this Kata we will play a classic game of Tug-o'-War!
 //

@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/527154e03594b9e3d2000533
 //
 // The Story
 //

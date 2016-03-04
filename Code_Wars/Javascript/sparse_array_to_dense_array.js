@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/54fa8632060986c9aa0005ca
 //
 // Create a toDense() function that given a sparse array it returns the respective dense array.
 //

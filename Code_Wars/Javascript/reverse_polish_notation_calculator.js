@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/52f78966747862fc9a0009ae
 //
 // Your job is to create a calculator which evaluates expressions in
 //  Reverse Polish notation.

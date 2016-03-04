@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/52756e5ad454534f220001ef
 //
 // Write a function called LCS that accepts two sequences, and returns the longest subsequence common to the passed in sequences.
 //

@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/525f4206b73515bffb000b21
 //
 // We need to sum big numbers and we require your help.
 //

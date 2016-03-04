@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/52cf02cd825aef67070008fa
 //
 // General Patron is faced with a problem , his intelligence
 //  has intercepted some secret messages from the enemy but

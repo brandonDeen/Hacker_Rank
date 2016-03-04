@@ -1,4 +1,4 @@
-// Description:
+// Description: http://www.codewars.com/kata/53223653a191940f2b000877
 //
 // In this kata, you'll have to implement a function solve_graph(start, end, arcs) that will return true if the end node can be reached from the start node, using 0 or more arcs. It will return false if it is not possible.
 //
